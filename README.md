@@ -75,7 +75,7 @@ These segments can empower marketing teams to personalize campaigns — rewardin
 The Customer Segmentation Project embodies the power of data science in revealing the unseen layers of consumer behavior. By leveraging machine learning and visual analytics, it transforms raw data into actionable business insights.
 From preprocessing and clustering to beautiful visual storytelling, this project demonstrates the core capabilities of a Data Scientist — analytical precision, technical mastery, and narrative clarity.
 
-##🌟 8️⃣ Epilogue: Beyond the Data — Towards Decision Intelligence
+## 🌟 8️⃣ Epilogue: Beyond the Data — Towards Decision Intelligence
 While the dataset captures only a small world of mall customers, the methodology scales to any business context — from retail and e-commerce to banking and telecom.
 Through this project, data science once again proves that “understanding customers is not an art — it’s a science fueled by insight.”
 ### ⚙️ Tools and Technologies Employed
